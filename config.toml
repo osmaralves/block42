@@ -1,0 +1,4 @@
+baseURL = "https://block42.com.br"
+languageCode = "pt-br"
+title = "Block42"
+theme = "ananke"
